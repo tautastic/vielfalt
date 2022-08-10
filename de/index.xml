@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vielfalt AG</title>
-    <link>http://example.org/de/</link>
+    <link>https://add1609.github.io/vielfalt/de/</link>
     <description>Recent content on Vielfalt AG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://add1609.github.io/vielfalt/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über uns</title>
-      <link>http://example.org/de/about/</link>
+      <link>https://add1609.github.io/vielfalt/de/about/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/de/about/</guid>
+      <guid>https://add1609.github.io/vielfalt/de/about/</guid>
       <description>Wer wir sind Die Vielfalt AG Wir sind Schüler*innen aus unterschiedlichen Klassenstufen und setzen uns als VIELFALT-AG dafür ein, dass sich jede Person an unserer Schule (natürlich auch außerhalb) akzeptiert, angenommen und wohl fühlt. Egal, wie groß, wie klein, egal welche Religion, Herkunft, Haar- oder Hautfarbe, welche Sexualität oder Identität jemand hat – Jede*r hat das Recht auf Freiheit, Liebe und Akzeptanz. Unsere Ziele Wir wollen Ausgrenzung entgegengehen, Aufmerksamkeit erregen, Menschen ermutigen, zu sich zu stehen und andere dazu ermutigen, für ihre Freund*innen und Mitmenschen einzustehen.</description>
     </item>
     
     <item>
       <title>Archiv</title>
-      <link>http://example.org/de/archives/</link>
+      <link>https://add1609.github.io/vielfalt/de/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/de/archives/</guid>
+      <guid>https://add1609.github.io/vielfalt/de/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suchen</title>
-      <link>http://example.org/de/search/</link>
+      <link>https://add1609.github.io/vielfalt/de/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/de/search/</guid>
+      <guid>https://add1609.github.io/vielfalt/de/search/</guid>
       <description></description>
     </item>
     

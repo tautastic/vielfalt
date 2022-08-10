@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/de/about/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/about/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/"
+                href="https://add1609.github.io/vielfalt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/about/"
+                href="https://add1609.github.io/vielfalt/de/about/"
                 />
   </url><url>
-    <loc>http://example.org/de/archives/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/archives/"
+                href="https://add1609.github.io/vielfalt/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/archives/"
+                href="https://add1609.github.io/vielfalt/de/archives/"
                 />
   </url><url>
-    <loc>http://example.org/de/categories/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://add1609.github.io/vielfalt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/categories/"
+                href="https://add1609.github.io/vielfalt/de/categories/"
                 />
   </url><url>
-    <loc>http://example.org/de/search/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/search/"
+                href="https://add1609.github.io/vielfalt/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/search/"
+                href="https://add1609.github.io/vielfalt/de/search/"
                 />
   </url><url>
-    <loc>http://example.org/de/tags/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://add1609.github.io/vielfalt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/tags/"
+                href="https://add1609.github.io/vielfalt/de/tags/"
                 />
   </url><url>
-    <loc>http://example.org/de/</loc>
+    <loc>https://add1609.github.io/vielfalt/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://add1609.github.io/vielfalt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/"
+                href="https://add1609.github.io/vielfalt/de/"
                 />
   </url>
 </urlset>
