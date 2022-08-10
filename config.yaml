@@ -80,7 +80,7 @@ languages:
           url: archives
           weight: 4
         - name: Über uns
-          url: /de/about
+          url: about
           weight: 5
 
 
