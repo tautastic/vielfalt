@@ -4,7 +4,7 @@ date: 2022-08-10
 ---
 
 ## Who we are
-{{< figure class="md-img-right" src="/01.jpeg" title="Die Vielfalt AG" alt="a picture showing the members of the vielfalt ag">}}
+{{< figure class="md-img-right" src="/vielfalt/01.jpeg" title="Die Vielfalt AG" alt="a picture showing the members of the vielfalt ag">}}
 We are students from various grades and are committed as the VIELFALT-AG to ensure that every person
 at our school (of course also outside) feels accepted, appreciated and comfortable. No matter how big
 or small, no matter what religion, origin, hair or skin color, sexuality or identity someone has -
