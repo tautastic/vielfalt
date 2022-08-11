@@ -75,7 +75,7 @@ pre:hover .copy-code {
 
 .post-content .md-img-right img {
     margin: 0;
-    max-height: 270px;
+    max-height: 250px;
 }
 
 @media screen and (min-width: 600px) {
