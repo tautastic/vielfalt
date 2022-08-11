@@ -2,17 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://add1609.github.io/vielfalt/about/</loc>
+    <loc>https://add1609.github.io/vielfalt/posts/about/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://add1609.github.io/vielfalt/de/about/"
+                href="https://add1609.github.io/vielfalt/de/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://add1609.github.io/vielfalt/about/"
+                href="https://add1609.github.io/vielfalt/posts/about/"
+                />
+  </url><url>
+    <loc>https://add1609.github.io/vielfalt/posts/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/vielfalt/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/vielfalt/posts/"
+                />
+  </url><url>
+    <loc>https://add1609.github.io/vielfalt/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://add1609.github.io/vielfalt/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://add1609.github.io/vielfalt/"
                 />
   </url><url>
     <loc>https://add1609.github.io/vielfalt/archives/</loc>
@@ -61,18 +87,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://add1609.github.io/vielfalt/tags/"
-                />
-  </url><url>
-    <loc>https://add1609.github.io/vielfalt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://add1609.github.io/vielfalt/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://add1609.github.io/vielfalt/"
                 />
   </url>
 </urlset>
