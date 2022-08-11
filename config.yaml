@@ -44,10 +44,10 @@ languages:
     title: Vielfalt AG
     menu:
       main:
-        - name: a
+        - name: Categories
           url: nil
           weight: 1
-        - name: b
+        - name: Tags
           url: nil
           weight: 2
         - name: Search
@@ -67,10 +67,10 @@ languages:
     title: Vielfalt AG
     menu:
       main:
-        - name: a
+        - name: Kategorien
           url: nil
           weight: 1
-        - name: b
+        - name: Tags
           url: nil
           weight: 2
         - name: Suchen
