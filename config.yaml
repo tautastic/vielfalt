@@ -84,6 +84,11 @@ languages:
         - name: About us
           url: posts/about
           weight: 5
+    homeInfoParams:
+      Title: "Vielfalt AG 🌈"
+      Content: >
+        Platzhalter text blah blah
+        - You can find out more **[here](about/)**.
 
   de:
     contentDir: content/de
@@ -107,6 +112,11 @@ languages:
         - name: Über uns
           url: posts/about
           weight: 5
+    homeInfoParams:
+      Title: "Vielfalt AG 🌈"
+      Content: >
+        Platzhalter text blah blah
+        - Weitere Infos finden Sie **[hier](about/)**.
 
 
 markup:
