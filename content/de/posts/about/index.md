@@ -1,6 +1,9 @@
 ---
 title: "Über uns"
 date: 2022-08-10
+summary: "Lerne die Vielfalt AG kennen 🌈"
+aliases:
+    - /de/about
 ---
 
 ## Wer wir sind

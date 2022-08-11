@@ -34,6 +34,31 @@ params:
   showtoc: true
   tocopen: false
 
+  mainSections:
+    - posts
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: false
+    location: 0
+    distance: 500
+    threshold: 0.1
+    minMatchCharLength: 2
+    keys: [ "title", "permalink", "summary", "content" ]
+
+  assets:
+    disableFingerprinting: false
+    favicon: "/vielfalt/favicon.ico"
+    favicon16x16: "/vielfalt/favicon-16x16.png"
+    favicon32x32: "/vielfalt/favicon-32x32.png"
+    apple_touch_icon: "/vielfalt/apple-touch-icon.png"
+    safari_pinned_tab: "/vielfalt/apple-touch-icon.png"
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
 defaultContentLang: en
 
 languages:
@@ -45,10 +70,10 @@ languages:
     menu:
       main:
         - name: Categories
-          url: nil
+          url: categories
           weight: 1
         - name: Tags
-          url: nil
+          url: tags
           weight: 2
         - name: Search
           url: search
@@ -57,7 +82,7 @@ languages:
           url: archives
           weight: 4
         - name: About us
-          url: about
+          url: posts/about
           weight: 5
 
   de:
@@ -68,10 +93,10 @@ languages:
     menu:
       main:
         - name: Kategorien
-          url: nil
+          url: categories
           weight: 1
         - name: Tags
-          url: nil
+          url: tags
           weight: 2
         - name: Suchen
           url: search
@@ -80,7 +105,7 @@ languages:
           url: archives
           weight: 4
         - name: Über uns
-          url: about
+          url: posts/about
           weight: 5
 
 

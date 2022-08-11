@@ -82,7 +82,7 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    font-weight: 500;
+    font-weight: 800;
     border-bottom: 2px solid currentColor;
 }
 
