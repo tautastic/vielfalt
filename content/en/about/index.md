@@ -24,4 +24,6 @@ questions or suggestions hangs in the large break hall for you to use. Feel free
 
 If you want to make the world a little bit more colorful and encourage people to show their most beautiful
 colors, then you are at the right place. Feel free to talk to one of us, come to one of our meetings at the
-Interact Club, or send us an email to Vielfalt@gym-old.eu ! We look forward to seeing YOU 🌈
+Interact Club, or send us an email to Vielfalt@gym-old.eu
+
+We look forward to seeing YOU! 🌈

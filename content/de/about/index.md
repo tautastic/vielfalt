@@ -26,5 +26,7 @@ dürfen gerne Fragen einwerfen.
 
 Falls du Lust hast, die Welt ein kleines bisschen bunter zu gestalten, und Menschen ermutigen willst,
 ihre schönsten Farben zu zeigen, dann bist du bei uns richtig. Sprich gerne eine\*n von uns an, komm
-zu einem unserer Treffen beim Interact-Club, oder schreib uns eine Mail an Vielfalt@gym-old.eu !
-Wir freuen uns auf DICH 🌈
+zu einem unserer Treffen beim Interact-Club, oder schreib uns eine Mail an Vielfalt@gym-old.eu
+
+
+Wir freuen uns auf DICH! 🌈

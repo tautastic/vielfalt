@@ -71,18 +71,21 @@ pre:hover .copy-code {
     display: block;
     margin: 0 auto 0 15px;
     float: right;
+    background-color: var(--code-bg);
+    border-radius: var(--radius);
+    text-align: center;
 }
 
 .post-content .md-img-right img {
     margin: 0;
-    max-height: 250px;
+    max-height: 190px;
 }
-
 @media screen and (min-width: 600px) {
     .post-content .md-img-right {
-        margin: 0 auto 0 40px;
+        margin: 0 auto 16px 40px;
     }
     .post-content .md-img-right img {
         max-height: 280px;
     }
 }
+@media screen and (max-width: 325px){.post-content .md-img-right {display: none;}}
