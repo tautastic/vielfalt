@@ -7,7 +7,7 @@ aliases:
 ---
 
 ## Wer wir sind
-{{< figure class="md-img-right" src="/vielfalt/01.jpeg" title="Die Vielfalt AG" alt="a picture showing the members of the vielfalt ag">}}
+{{< figure class="md-img-right" src="/01.jpeg" title="Die Vielfalt AG" alt="a picture showing the members of the vielfalt ag">}}
 Wir sind Schüler\*innen aus unterschiedlichen Klassenstufen und setzen uns als VIELFALT-AG dafür ein,
 dass sich jede Person an unserer Schule (natürlich auch außerhalb) akzeptiert, angenommen und wohl fühlt.
 Egal, wie groß, wie klein, egal welche Religion, Herkunft, Haar- oder Hautfarbe, welche Sexualität oder
