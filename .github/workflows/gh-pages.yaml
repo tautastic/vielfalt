@@ -25,7 +25,7 @@ jobs:
         run: hugo -D --gc --minify
         
       - name: Cname
-        run: echo -n "vielfalt-ag.xyz" > CNAME
+        run: echo -n "vielfalt-ag.xyz" > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
