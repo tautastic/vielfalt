@@ -6,7 +6,7 @@
     "scripts": {
         "dev": "npm run hugo:dev",
         "build": "npm run hugo:build",
-        "hugo:dev": "hugo server --watch --verbose --disableFastRender --bind=192.168.2.110 --baseURL=http://192.168.2.110:1313/vielfalt/",
+        "hugo:dev": "hugo server --watch --verbose --disableFastRender --bind=192.168.2.110 --baseURL=http://192.168.2.110:1313/",
         "hugo:build": "hugo -D --gc --minify --noBuildLock"
     },
     "repository": {

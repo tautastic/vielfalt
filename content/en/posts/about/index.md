@@ -3,7 +3,7 @@ title: "About us"
 date: 2022-08-10
 summary: "Get to know the Vielfalt AG 🌈"
 aliases:
-    - /about
+    - /en/about
 ---
 
 ## Who we are

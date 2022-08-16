@@ -1,6 +1,6 @@
-baseURL: "https://add1609.github.io/vielfalt/"
+baseURL: "https://vielfalt-ag.xyz"
 theme: PaperMod
-languageCode: "en-us"
+languageCode: "de-de"
 title: "Vielfalt AG"
 enableRobotsTXT: true
 buildDrafts: true
@@ -48,51 +48,25 @@ params:
 
   assets:
     disableFingerprinting: false
-    favicon: "/vielfalt/favicon.ico"
-    favicon16x16: "/vielfalt/favicon-16x16.png"
-    favicon32x32: "/vielfalt/favicon-32x32.png"
-    apple_touch_icon: "/vielfalt/apple-touch-icon.png"
-    safari_pinned_tab: "/vielfalt/apple-touch-icon.png"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/apple-touch-icon.png"
 
 outputs:
   home:
     - HTML
     - JSON
 
-defaultContentLang: en
+defaultContentLanguageInSubdir: false
+defaultContentLanguage: de
 
 languages:
-  en:
-    contentDir: content/en
-    languageName: "English"
-    DateFormat: "January 2, 2006"
-    title: Vielfalt AG
-    menu:
-      main:
-        - name: Categories
-          url: categories
-          weight: 1
-        - name: Tags
-          url: tags
-          weight: 2
-        - name: Search
-          url: search
-          weight: 3
-        - name: Archive
-          url: archives
-          weight: 4
-        - name: About us
-          url: posts/about
-          weight: 5
-    homeInfoParams:
-      Title: "Vielfalt AG 🌈"
-      Content: >
-        Platzhalter text blah blah
-        - You can find out more **[here](about/)**.
-
   de:
     contentDir: content/de
     languageName: "German"
+    weight: 1
     DateFormat: "2 January, 2006"
     title: Vielfalt AG
     menu:
@@ -117,6 +91,35 @@ languages:
       Content: >
         Platzhalter text blah blah
         - Weitere Infos finden Sie **[hier](about/)**.
+
+  en:
+    contentDir: content/en
+    languageName: "English"
+    weight: 2
+    DateFormat: "January 2, 2006"
+    title: Vielfalt AG
+    menu:
+      main:
+        - name: Categories
+          url: categories
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2
+        - name: Search
+          url: search
+          weight: 3
+        - name: Archive
+          url: archives
+          weight: 4
+        - name: About us
+          url: posts/about
+          weight: 5
+    homeInfoParams:
+      Title: "Vielfalt AG 🌈"
+      Content: >
+        Platzhalter text blah blah
+        - You can find out more **[here](about/)**.
 
 
 markup:
