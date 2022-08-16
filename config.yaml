@@ -15,6 +15,7 @@ minify:
 params:
   # env: production
   keywords: [ Blog, News, School ]
+  description: "Die Vielfalt AG des Gymnasium Oldenfelde"
   author: Ahmed Sami
   defaultTheme: auto
   disableThemeToggle: false
