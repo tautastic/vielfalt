@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vielfalt AG</title>
-    <link>https://add1609.github.io/vielfalt/posts/</link>
+    <link>https://vielfalt-ag.xyz/posts/</link>
     <description>Recent content in Posts on Vielfalt AG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://add1609.github.io/vielfalt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vielfalt-ag.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About us</title>
-      <link>https://add1609.github.io/vielfalt/posts/about/</link>
+      <title>Über uns</title>
+      <link>https://vielfalt-ag.xyz/posts/about/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://add1609.github.io/vielfalt/posts/about/</guid>
-      <description>Get to know the Vielfalt AG 🌈</description>
+      <guid>https://vielfalt-ag.xyz/posts/about/</guid>
+      <description>Lerne die Vielfalt AG kennen 🌈</description>
     </item>
     
   </channel>

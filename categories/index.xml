@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Vielfalt AG</title>
-    <link>https://add1609.github.io/vielfalt/categories/</link>
-    <description>Recent content in Categories on Vielfalt AG</description>
+    <title>Kategorien on Vielfalt AG</title>
+    <link>https://vielfalt-ag.xyz/categories/</link>
+    <description>Recent content in Kategorien on Vielfalt AG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://add1609.github.io/vielfalt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://vielfalt-ag.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

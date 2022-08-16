@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://add1609.github.io/vielfalt/sitemap.xml
+Sitemap: https://vielfalt-ag.xyz/sitemap.xml
