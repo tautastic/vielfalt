@@ -1,6 +1,6 @@
 {
     "name": "vielfalt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "vielfalt ag website built with hugo",
     "main": "index.js",
     "scripts": {
